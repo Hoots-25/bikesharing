@@ -13,7 +13,8 @@ After that the following analyses were computed using Tableau:
 
 ## Results
 
-You can find the Tableau story analysis [here](https://public.tableau.com/authoring/RIDESHARING/TripsbyWeekday_1/Ride%20Sharing%20Story#1). The results show that most users, both subscribers and single customer riders are male. Most subscriber men tend to travel on Thursdays more than any other days.
+You can find the Tableau story analysis [here](https://public.tableau.com/app/profile/domenick.avanzi/viz/RIDESHARING/RideSharingStory_1).
+The results show that most users, both subscribers and single customer riders are male. Most subscriber men tend to travel on Thursdays more than any other days.
 
 
 ## Summary
